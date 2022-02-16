@@ -6,6 +6,7 @@
 largura = float(input('Informe a largura:'))
 comprimento = float(input('Informe o comprimento:'))
 
+#função para o metro quadrado.
 def calcularMetroQuadrado(x,y):
     return (x * y)
 
